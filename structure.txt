@@ -1,0 +1,23 @@
+.
+├── __pycache__
+│   ├── models.cpython-311.pyc
+│   └── smart_scheduler.cpython-311.pyc
+├── app.py
+├── generate_dataset.py
+├── models.py
+├── scheduler.db
+├── smart_scheduler.py
+├── structure.txt
+├── templates
+│   ├── add_task.html
+│   ├── auth
+│   │   ├── login.html
+│   │   └── register.html
+│   ├── base.html
+│   ├── dashboard.html
+│   ├── index.html
+│   ├── landing.html
+│   └── schedule.html
+├── test_scheduler.py
+└── training_data.csv
+
